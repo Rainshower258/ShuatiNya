@@ -129,7 +129,7 @@ app/src/main/java/com/example/english/
 
 ## 🚀 快速开始
 
-###下载base.apk并安装✌️
+- 下载base.apk并安装✌️
 
 ### 环境要求
 - Android Studio Ladybug (2024.2.1) 或更高版本
